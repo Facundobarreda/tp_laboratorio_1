@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587247321 source:c:\users\barredaf\programas\trabajo01\main.c
+
+1587250211 source:c:\users\barredaf\programas\trabajo01\funciones.c
+	<stdio.h>
+
+1587250413 source:c:\users\barredaf\programas\trabajo01\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1587250211 c:\users\barredaf\programas\trabajo01\calculadora.h
+
